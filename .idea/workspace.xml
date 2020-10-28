@@ -12,6 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="500d2706-2b50-4a0b-a227-503eb693a247" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/anything.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bondulance.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/fortytwo.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hello.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hello_test.go" afterDir="false" />
